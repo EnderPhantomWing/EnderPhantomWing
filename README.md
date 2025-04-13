@@ -5,5 +5,5 @@ Here is EnderPhantomwing!👋
 - Here are my contact details：![Static Badge](https://img.shields.io/badge/QQ%20Number%3A%20-3530540853-blue) ![Static Badge](https://img.shields.io/badge/Email%3A%20-EnderPhantomWing%40outlook.com-blue)
 - Look ! What is it ? It looks like very INTERESTING !!! [![Static Badge](https://img.shields.io/badge/My%20Repo%3A%20-alist--u-green)](https://github.com/EnderPhantomWing/alist-u) <br>
 These are some of the data for this repo：<br>
-![GitHub Release](https://img.shields.io/github/v/release/EnderPhantomWing/alist-u) ![GitHub License](https://img.shields.io/github/license/EnderPhantomWing/alist-u) <br>
+[![GitHub Release](https://img.shields.io/github/v/release/EnderPhantomWing/alist-u)](https://github.com/EnderPhantomWing/alist-u/releases/latest) ![GitHub License](https://img.shields.io/github/license/EnderPhantomWing/alist-u) <br>
 ![GitHub Repo stars](https://img.shields.io/github/stars/EnderPhantomWing/alist-u) ![GitHub forks](https://img.shields.io/github/forks/EnderPhantomWing/alist-u) ![GitHub followers](https://img.shields.io/github/followers/EnderPhantomWing)
