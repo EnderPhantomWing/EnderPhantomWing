@@ -8,4 +8,3 @@ Hello ! Here is EnderPhantomwing!👋
 <a align="right" href="https://github.com/EnderPhantomWing/alist-u">  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnderPhantomWing&repo=alist-u"/>  </a> <br>
 These are some of the data for this repo：<br>
 [![GitHub Release](https://img.shields.io/github/v/release/EnderPhantomWing/alist-u)](https://github.com/EnderPhantomWing/alist-u/releases/latest) [![GitHub License](https://img.shields.io/github/license/EnderPhantomWing/alist-u)](https://www.gnu.org/licenses/agpl-3.0.en.html) ![GitHub Repo stars](https://img.shields.io/github/stars/EnderPhantomWing/alist-u) ![GitHub forks](https://img.shields.io/github/forks/EnderPhantomWing/alist-u)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnderPhantomWing&repo=alist-u)](https://github.com/EnderPhantomWing/alist-u)
