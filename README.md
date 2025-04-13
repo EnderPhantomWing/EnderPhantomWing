@@ -7,4 +7,4 @@ Hello ! Here is EnderPhantomwing!👋
 - Look ! What is it ? It looks like very INTERESTING !!! [![Static Badge](https://img.shields.io/badge/My%20Repo%3A%20-alist--u-green)](https://github.com/EnderPhantomWing/alist-u) <br>
 These are some of the data for this repo：<br>
 [![GitHub Release](https://img.shields.io/github/v/release/EnderPhantomWing/alist-u)](https://github.com/EnderPhantomWing/alist-u/releases/latest) [![GitHub License](https://img.shields.io/github/license/EnderPhantomWing/alist-u)](https://www.gnu.org/licenses/agpl-3.0.en.html) <br>
-![GitHub Repo stars](https://img.shields.io/github/stars/EnderPhantomWing/alist-u) ![GitHub forks](https://img.shields.io/github/forks/EnderPhantomWing/alist-u) ![GitHub followers](https://img.shields.io/github/followers/EnderPhantomWing) <br>
+![GitHub Repo stars](https://img.shields.io/github/stars/EnderPhantomWing/alist-u) ![GitHub forks](https://img.shields.io/github/forks/EnderPhantomWing/alist-u) <br>
