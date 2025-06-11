@@ -4,6 +4,10 @@ Hello ! Here is EnderPhantomWing!👋
 - I'm a junior high school student BUT also a VIDEO CREATOR !!!
 - Here are my social accounts：<br>
 ![Static Badge](https://img.shields.io/badge/QQ%20Number%3A%20-3530540853-blue) ![Static Badge](https://img.shields.io/badge/Email%3A%20-EnderPhantomWing%40outlook.com-blue) [![Static Badge](https://img.shields.io/badge/Bilibili-EnderPhantomWing-ff69b4)](https://space.bilibili.com/9411255) 
+
+The following are temporarily unavailable
+---
+
 - Look ! What is it ? It looks like very INTERESTING !!! [![Static Badge](https://img.shields.io/badge/My%20Repo%3A%20-alist--u-green)](https://github.com/EnderPhantomWing/alist-u)
 <a href="https://github.com/EnderPhantomWing/alist-u">  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EnderPhantomWing&repo=alist-u"/>  </a> <br>
 These are some of the data for this repo：<br>
