@@ -22,8 +22,9 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          # Options
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
           user: EnderPhantomWing
           template: classic
           base: header, activity, community, repositories, metadata
@@ -35,7 +36,6 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: HTML, CSS
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
