@@ -22,9 +22,8 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
+          token: ${{ secrets.METRICS_TOKEN }}
           user: EnderPhantomWing
           template: classic
           base: header, activity, community, repositories, metadata
