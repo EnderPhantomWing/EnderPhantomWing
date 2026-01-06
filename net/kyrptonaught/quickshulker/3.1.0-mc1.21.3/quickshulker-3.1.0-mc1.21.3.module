@@ -1,0 +1,155 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.kyrptonaught",
+    "module": "quickshulker",
+    "version": "3.1.0-mc1.21.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "quickshulker-3.1.0-mc1.21.3.jar",
+          "url": "quickshulker-3.1.0-mc1.21.3.jar",
+          "size": 263244,
+          "sha512": "7c61f88b51b000f2025f848b7450d039bbf805caac6c394ea30b748643dad1e45daac6a108669419d6ddc222fbf49cca94e9187ef929753a596b8436d94d7486",
+          "sha256": "a0fb527001a74f6e6c8ca7322d94a13134d88f27e186e2fd38d77eaa84e17d66",
+          "sha1": "7c40c804a66965287185a8ce3207432bd5bd7c89",
+          "md5": "31a746c114c102a84c5af29dc6000686"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.18.4"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.114.0+1.21.3"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "12.0.0"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "curse.maven",
+          "module": "peek-693418",
+          "version": {
+            "requires": "5837969"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "curse.maven",
+          "module": "reinforced-shulker-boxes-529874",
+          "version": {
+            "requires": "6047615"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "atonkish.reinfcore",
+          "module": "reinforced-core",
+          "version": {
+            "requires": "4.0.3+1.21.3"
+          }
+        },
+        {
+          "group": "me.fallenbreath",
+          "module": "conditional-mixin-fabric",
+          "version": {
+            "requires": "0.6.4"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc",
+              "module": "fabric-loader"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "quickshulker-3.1.0-mc1.21.3.jar",
+          "url": "quickshulker-3.1.0-mc1.21.3.jar",
+          "size": 263244,
+          "sha512": "7c61f88b51b000f2025f848b7450d039bbf805caac6c394ea30b748643dad1e45daac6a108669419d6ddc222fbf49cca94e9187ef929753a596b8436d94d7486",
+          "sha256": "a0fb527001a74f6e6c8ca7322d94a13134d88f27e186e2fd38d77eaa84e17d66",
+          "sha1": "7c40c804a66965287185a8ce3207432bd5bd7c89",
+          "md5": "31a746c114c102a84c5af29dc6000686"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "quickshulker-3.1.0-mc1.21.3-sources.jar",
+          "url": "quickshulker-3.1.0-mc1.21.3-sources.jar",
+          "size": 163528,
+          "sha512": "ed1d5f35f668832f3cac45c307633650e280c80453ea1e75cf3a183f081ef10eb9480b408b1a85774f3af29835e4b81d542bc04a3e141949018add7852bcf2df",
+          "sha256": "e9a3fd93bce2599bd6065ee3f03c9244e6295b621a170c79e1a37e9519911522",
+          "sha1": "de225476261cdf04d81adf1820b7db5def73cc00",
+          "md5": "b65a49e9b4ebf9712d15efed36b9ab3c"
+        }
+      ]
+    }
+  ]
+}
