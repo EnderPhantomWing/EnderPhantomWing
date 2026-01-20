@@ -16,4 +16,12 @@
   Let's work towards a better future!
 
   ![Metrics](github-metrics.svg)
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=EnderPhantomWing&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=EnderPhantomWing&show_icons=true">
+  </picture>
 </div>
