@@ -7,10 +7,11 @@
 
   ![JAVA](https://img.shields.io/badge/-JAVA-red?style=for-the-badge)
 
-  A student from China.  
-  Learning Java, will try Kotlin, Rust, or C++.  
+  **A COMMON STUDENT** from **People's Republic of China**.  
+  Now learning Java, will try Kotlin(Android Develop), Rust, or C++.  
   Interested in **hardware** and **Android**.  
-  Minecraft and Terraria player. Will try to play other games.  
+  Minecraft and Terraria player. Play CS:GO, Cities Skylines and Buckshot Roulette occasionally.  
+  Will try to play other games.
 
   ![Metrics](github-metrics.svg)
 </div>
