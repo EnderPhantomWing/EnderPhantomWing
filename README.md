@@ -33,5 +33,7 @@
   Euro Truck Simulator 2, Hearts of Iron IV and so on.
   Will try to play other games.
 
-  ![Metrics](github-metrics.svg)
+  ![Metrics](github-metrics.svg)  
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EnderPhantomWing&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=EnderPhantomWing&show_icons=true&include_all_commits=true&theme=radical)
 </div>
